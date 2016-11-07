@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aggregator.iml" filepath="$PROJECT_DIR$/aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-persistence/app-persistence.iml" filepath="$PROJECT_DIR$/app-persistence/app-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-restapi/app-restapi.iml" filepath="$PROJECT_DIR$/app-restapi/app-restapi.iml" />
+    </modules>
+  </component>
+</project>
